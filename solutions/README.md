@@ -13,3 +13,18 @@ The solutions in this folder are not in order. I may change that in the future. 
 - 0600-0699
 - etc
   
+#### Solutions 1000-1499
+- 1000-1099
+- etc
+
+#### Solutions 1500-1999
+- 1500-1599
+- etc
+
+#### Solutions 2000-2499
+- 2000-2099
+- etc
+
+#### Solutions 2500-2999
+- 2500-2099
+- etc
