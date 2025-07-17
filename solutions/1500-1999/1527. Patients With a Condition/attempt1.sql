@@ -1,3 +1,6 @@
 # Write your MySQL query statement below
 Select* from Patients
-where Conditions like '%DIAB1%';
+WHERE conditions LIKE 'DIAB1%'        
+   OR conditions LIKE '% DIAB1%'       
+   OR conditions LIKE 'DIAB1% %'       
+   OR conditions LIKE '% DIAB1%';
