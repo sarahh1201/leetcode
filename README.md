@@ -4,7 +4,7 @@ I intend to upload my solutions for various leetcode problems here! I know some 
 ## Solutions Folder
 This folder has divived up all the solutions, each folder has a place for 500 problems. I do not have premium though so I may never be able to finish all the solutions. 
 
-#### Solutions 0001-0499
+#### [Solutions 0001-0499](solutions/0001-0499)
 #### Solutions 0500-0999 
 #### Solutions 1000-1499
 #### Solutions 1500-1999
